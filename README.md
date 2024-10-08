@@ -7,7 +7,7 @@ https://drive.google.com/drive/folders/17bF_-_-p1xQ9TplhTO-aGpB7fOksry4H?usp=sha
 - [ ] **Introduction**: summary of the task and the main findings (1 page or less)
 - [ ] **Exploratory Data Analysis**:
   -  [ ] data visualisation
-  -  [ ] correlation matrix
+  -  [x] correlation matrix
   -  [ ] pairwise plots
   -  [ ] etc.
 Tell some preliminary story behind the data.
